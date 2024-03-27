@@ -1,5 +1,6 @@
 {
-  "name": "@wangeditor-team/wangeditor",
+  "name": "@wangeditor-tme/wangeditor",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "test": "cross-env NODE_OPTIONS=--unhandled-rejections=warn jest --detectOpenHandles --passWithNoTests",
