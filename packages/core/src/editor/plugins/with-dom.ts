@@ -160,6 +160,7 @@ export const withDOM = <T extends Editor>(editor: T) => {
   // 隐藏 panel 或 modal
   e.hidePanelOrModal = () => {
     const set = EDITOR_TO_PANEL_AND_MODAL.get(e)
+    console.log('e.hidePanelOrModal set', set)
     if (set == null) return
     set.forEach(panelOrModal => panelOrModal.hide())
   }

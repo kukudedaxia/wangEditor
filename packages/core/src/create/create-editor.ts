@@ -111,6 +111,7 @@ export default function (option: Partial<ICreateOption>) {
 
     // 隐藏 panel and modal
     editor.on('change', () => {
+      console.log('create-editor.ts onChange')
       editor.hidePanelOrModal()
     })
     editor.on('scroll', () => {

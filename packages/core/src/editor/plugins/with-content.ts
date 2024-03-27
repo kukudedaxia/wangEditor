@@ -130,6 +130,7 @@ export const withContent = <T extends Editor>(editor: T) => {
       EDITOR_TO_SELECTION.set(e, selection)
     }
 
+    console.log('with-content onChange')
     // 触发配置的 change 事件
     e.emit('change')
 
