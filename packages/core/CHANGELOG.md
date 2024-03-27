@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.19...@wangeditor/core@1.2.0) (2024-03-27)
+
+
+### Features
+
+* ceshi ([83b80b2](https://github.com/wangeditor-team/wangEditor/commit/83b80b2cc1cd07a1909ba05bc53b65304b2fc160))
+
+
+
+
+
 ## [1.1.19](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/core@1.1.18...@wangeditor/core@1.1.19) (2022-11-14)
 
 
